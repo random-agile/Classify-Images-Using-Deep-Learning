@@ -153,3 +153,6 @@ cython_debug/
 
 Images
 TestImage
+Train Test Split
+model_transfer_v1.00
+modele_chiens.h5
